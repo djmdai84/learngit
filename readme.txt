@@ -25,3 +25,8 @@ git log --pretty=oneline
 git reset --hard HEAD^
 
 git reset --hard d5e1379
+
+
+git diff readme.txt
+
+继续测试 
