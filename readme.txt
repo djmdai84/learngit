@@ -16,3 +16,10 @@ git commit -m "wrote a readme file"
 文档测试 
 
 git diff readme.txt
+
+
+haha
+
+git log --pretty=oneline
+
+git reset --hard HEAD^
