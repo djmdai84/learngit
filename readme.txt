@@ -23,3 +23,5 @@ haha
 git log --pretty=oneline
 
 git reset --hard HEAD^
+
+git reset --hard d5e1379
