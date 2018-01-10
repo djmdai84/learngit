@@ -30,3 +30,12 @@ git reset --hard d5e1379
 git diff readme.txt
 
 继续测试 
+
+git add test.txt
+
+git commit --m "添加文件"
+
+rm test.txt
+
+git checkout -- test.txt
+git rm test.txt
