@@ -39,3 +39,9 @@ rm test.txt
 
 git checkout -- test.txt
 git rm test.txt
+
+ssh-keygen -t rsa -C "261837197@qq.com"
+
+git remote add origin git@github.com:djmdai84/learngit.git
+
+git push origin master
