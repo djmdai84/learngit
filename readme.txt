@@ -1,4 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is free software.
 
 git config --global user.name "djmdai84"
@@ -45,3 +45,5 @@ ssh-keygen -t rsa -C "261837197@qq.com"
 git remote add origin git@github.com:djmdai84/learngit.git
 
 git push origin master
+
+test a 
